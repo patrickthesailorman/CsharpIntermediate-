@@ -6,7 +6,7 @@ namespace section2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var customer = new Customer();
         }
     }
 }
