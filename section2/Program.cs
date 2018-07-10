@@ -7,6 +7,8 @@ namespace section2
         static void Main(string[] args)
         {
             var customer = new Customer();
+            Console.WriteLine(customer.Id);
+            Console.WriteLine(customer.Name);
         }
     }
 }
