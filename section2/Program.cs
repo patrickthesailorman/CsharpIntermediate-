@@ -1,14 +1,11 @@
-﻿using System;
+using System;
 
-namespace section2
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var customer = new Customer();
-            Console.WriteLine(customer.Id);
-            Console.WriteLine(customer.Name);
-        }
+namespace section2 {
+  class Program {
+    static void Main (string[] args) {
+      var customer = new Customer ();
+      Console.WriteLine (customer.Id);
+      Console.WriteLine (customer.Name);
     }
+  }
 }
