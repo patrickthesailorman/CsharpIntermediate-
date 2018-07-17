@@ -2,18 +2,23 @@ namespace section2
 {
     public class Point
     {
-        public int x;
-        public int y;
+        public int X;
+        public int Y;
 
         public Point(int x, int y)
         {
-            this.x = x;
-            this.y = y;
+            this.X = x;
+            this.Y = y;
         }
         public void Move(int x, int y)
         {
-            this.x = x;
-            this.y = y;
+            this.X = x;
+            this.Y = y;
+        }
+        public void Move(Point newLocation)
+        {
+            this.X = newLocation.X;
+            this.Y = newLocation.Y;
         }
     }
     
