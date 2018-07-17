@@ -1,4 +1,0 @@
-/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/obj/Debug/netcoreapp2.0/CsharpIntermediate.csprojAssemblyReference.cache
-/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/obj/Debug/netcoreapp2.0/CsharpIntermediate.csproj.CoreCompileInputs.cache
-/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/obj/Debug/netcoreapp2.0/CsharpIntermediate.AssemblyInfoInputs.cache
-/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/obj/Debug/netcoreapp2.0/CsharpIntermediate.AssemblyInfo.cs
