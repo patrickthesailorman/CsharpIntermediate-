@@ -11,6 +11,7 @@ namespace section2 {
         Orders = new List<Order>();
     }
     public Customer(int id)
+        : this()
     {
         this.Id = id;
     }
