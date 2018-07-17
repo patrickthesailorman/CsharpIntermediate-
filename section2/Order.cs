@@ -1,4 +1,4 @@
-namespace section2.obj
+namespace section2
 {
     public class Order
     {
