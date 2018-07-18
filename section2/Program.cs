@@ -26,7 +26,7 @@ namespace section2
       }
       catch(Exception)
       {
-
+          Console.WriteLine("An unexpected error occured");
       }
     }
   }
