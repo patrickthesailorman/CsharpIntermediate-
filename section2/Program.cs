@@ -15,8 +15,8 @@ namespace section2
 
       // Console.WriteLine (customer.Id);
       // Console.WriteLine (customer.Name);
-      var calculator = new Calculator()
-      
+      var calculator = new Calculator();
+      calculator.Add(1,2);
     }
     static void UsePoints()
     {
