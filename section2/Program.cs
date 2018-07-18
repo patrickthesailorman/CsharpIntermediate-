@@ -15,6 +15,10 @@ namespace section2
 
       // Console.WriteLine (customer.Id);
       // Console.WriteLine (customer.Name);
+      
+    }
+    static void UsePoints()
+    {
       try
       {
         var point = new Point(10,20);
