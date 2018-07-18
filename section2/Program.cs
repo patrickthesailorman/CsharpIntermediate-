@@ -15,8 +15,28 @@ namespace section2
 
       // Console.WriteLine (customer.Id);
       // Console.WriteLine (customer.Name);
+      try
+      {
+          var num = int.Parse("abc");
+      }
+      catch(Exception)
+      {
+          Console.WriteLine("Conversion failed");
+      }
+      int number;
+      var result = int.TryParse("abc", out number);
+      if (result)
+        Console.WriteLine(number);
+      else
+        Console.WriteLine("Conversion failed");
+    }
+    static void UseParams()
+    {
       var calculator = new Calculator();
-      calculator.Add(1,2);
+      Console.WriteLine(calculator.Add(1, 2));
+      Console.WriteLine(calculator.Add(1, 2, 3));
+      Console.WriteLine(calculator.Add(1, 2, 3, 4));
+      Console.WriteLine(calculator.Add(new int[]{1, 2, 3, 4, 5, 6}));
     }
     static void UsePoints()
     {
