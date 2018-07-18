@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace section2 
+namespace section2
 {
   class Program 
   {
@@ -15,6 +15,7 @@ namespace section2
 
       // Console.WriteLine (customer.Id);
       // Console.WriteLine (customer.Name);
+      var calculator = new Calculator()
       
     }
     static void UsePoints()
