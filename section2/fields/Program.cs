@@ -17,6 +17,10 @@ namespace fields
         {
             this.Name = name;
         }
+        public void Promote)()
+        {
+            // ...
+        }
 }
     public class Order 
     {
