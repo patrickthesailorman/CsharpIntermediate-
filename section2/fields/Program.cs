@@ -12,6 +12,11 @@ namespace fields
         {
             this.Id = id;
         }
+        public Customer(int id, string name)
+            : this(id)
+        {
+            this.Name = name;
+        }
 }
     public class Order 
     {
