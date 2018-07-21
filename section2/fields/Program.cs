@@ -17,9 +17,9 @@ namespace fields
         {
             this.Name = name;
         }
-        public void Promote)()
+        public void Promote()
         {
-            // ...
+            Orders = new List<Order>();
         }
 }
     public class Order 
