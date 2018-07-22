@@ -9,6 +9,7 @@ namespace fields
         {
             var customer = new Customer(1);
             customer.Orders.Add(new Order());
+            customer.Orders.Add(new Order());
             // Console.WriteLine("Hello World!");
         }
     }
