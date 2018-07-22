@@ -20,7 +20,8 @@ namespace Encapsulation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+             var person = new Person();
+             person.SetBirthdate(new DateTime());
         }
     }
 }
