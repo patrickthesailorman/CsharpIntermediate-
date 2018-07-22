@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace fields
@@ -5,7 +6,7 @@ namespace fields
   public class Customer {
     public int Id;
     public string Name;
-    public List<Order> Orders = new List<Order>();
+    public readonly List<Order> Orders = new List<Order>();
     
         public Customer(int id)
         {
@@ -18,7 +19,7 @@ namespace fields
         }
         public void Promote()
         {
-            Orders = new List<Order>();
+            
         }
   }
 }

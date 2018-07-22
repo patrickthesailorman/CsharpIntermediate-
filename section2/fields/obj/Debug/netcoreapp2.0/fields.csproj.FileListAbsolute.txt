@@ -2,3 +2,10 @@
 /Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/obj/Debug/netcoreapp2.0/fields.csproj.CoreCompileInputs.cache
 /Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/obj/Debug/netcoreapp2.0/fields.AssemblyInfoInputs.cache
 /Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/obj/Debug/netcoreapp2.0/fields.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/bin/Debug/netcoreapp2.0/fields.deps.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/bin/Debug/netcoreapp2.0/fields.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/bin/Debug/netcoreapp2.0/fields.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/bin/Debug/netcoreapp2.0/fields.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/bin/Debug/netcoreapp2.0/fields.pdb
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/obj/Debug/netcoreapp2.0/fields.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/fields/obj/Debug/netcoreapp2.0/fields.pdb
