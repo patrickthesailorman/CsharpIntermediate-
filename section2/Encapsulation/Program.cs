@@ -6,7 +6,10 @@ namespace Encapsulation
     {
         private DateTime _birthdate;
 
-        
+        public void SetBirthdate(DateTime birthdate)
+        {
+            _birthdate = birthdate;
+        }
     }
     class Program
     {
