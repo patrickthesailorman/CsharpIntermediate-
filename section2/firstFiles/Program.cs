@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace section2
+namespace firstFiles
 {
   class Program 
   {
