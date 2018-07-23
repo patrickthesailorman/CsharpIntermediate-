@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.deps.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.pdb
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.csprojAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.pdb
