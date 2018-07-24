@@ -10,7 +10,7 @@ namespace Properties
              get
              {
                  var timeSpan = DateTime.Today - Birthdate;
-                 timeSpan.Days
+                 var years = timeSpan.Days / 365;
              }
          }
     }
