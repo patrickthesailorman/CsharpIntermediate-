@@ -1,25 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Properties
 {
-    public class Person
-    {
-        public DateTime Birthdate { get; set; }
-         public int Age
-         {
-             get
-             {
-                 var timeSpan = DateTime.Today - Birthdate;
-                 var years = timeSpan.Days / 365;
-             }
-         }
-    }
-   
-    class Program
+
+  class Program
     {
         static void Main(string[] args)
         {
-            // Console.WriteLine("Hello World!");
+            var person = new Person();
+            person.Birthdate = new DateTime(1982, 1, 1);
+
+            Console.WriteLine(person.Age);
+
         }
     }
 }
