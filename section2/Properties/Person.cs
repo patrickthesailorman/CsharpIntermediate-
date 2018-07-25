@@ -7,11 +7,13 @@ namespace Properties
     {
       public string Name { get; set; }
       public string Username { get; set; }
+      public DateTime Birthdate { get; private set; }
+      
       public Person(DateTime birthdate)
       {
           Birthdate = birthdate;
       }
-        public DateTime Birthdate { get; private set; }
+        
          public int Age
          {
              get
