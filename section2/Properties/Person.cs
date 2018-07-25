@@ -6,6 +6,7 @@ namespace Properties
   public class Person
     {
       public string Name { get; set; }
+      public string Username { get; set; }
       public Person(DateTime birthdate)
       {
           Birthdate = birthdate;
