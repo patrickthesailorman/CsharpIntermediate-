@@ -12,6 +12,15 @@ namespace Indexers
         _dictionary = new Dictionary<string, string>();
           
       }
+      // Without indexers code as follows
+      // public void SetItem(string key, string value)
+      // {
+
+      // }
+      // public string GetItem(string key) 
+      // {
+
+      // }
       public string this[string key]
       {
         get {return _dictionary[key]; }
