@@ -7,7 +7,7 @@ namespace Indexers
     {
     public class HttpCookie
         {
-            
+            private Dictionary<string, string>
         }
     }
 }
