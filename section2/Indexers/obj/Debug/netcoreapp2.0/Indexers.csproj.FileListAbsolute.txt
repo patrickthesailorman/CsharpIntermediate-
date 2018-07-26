@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.deps.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.pdb
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.csprojAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.pdb

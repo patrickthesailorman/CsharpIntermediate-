@@ -3,15 +3,13 @@ using System.Collections.Generic;
 
 namespace Indexers
 {
-    class Program
+  partial class Program
     {
-        public class HttpCookie
-        {
-            
-        }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var cookie = new HttpCookie();
+            cookie["name"] = "Mosh";
+            Console.WriteLine(cookie["name"]);
         }
     }
 }
