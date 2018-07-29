@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.deps.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.pdb
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.csprojAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.pdb
