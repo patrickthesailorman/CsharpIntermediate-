@@ -4,6 +4,7 @@ namespace Inheritance
 {
     public class Text : PresentationObject
     {
+        public int FontSize { get; set }
         
     }
     class Program
