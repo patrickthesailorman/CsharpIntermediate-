@@ -10,6 +10,11 @@ namespace Composition
         {
            _logger = logger; 
         }
+
+        public void Migrate()
+        {
+            _logger.Log("We are migrating blah blah blah...");
+        }
     }
     class Program
     {
