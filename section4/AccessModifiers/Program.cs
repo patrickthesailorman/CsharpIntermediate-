@@ -2,11 +2,23 @@
 
 namespace AccessModifiers
 {
+    public class Customer
+    {
+        public int Id { get; set }
+        public string { get; set; }
+
+        public void Promote()
+        {
+
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var customer = new Customer();
+            
+            // Console.WriteLine("Hello World!");
         }
     }
 }
