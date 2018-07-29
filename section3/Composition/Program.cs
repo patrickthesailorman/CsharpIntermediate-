@@ -2,11 +2,13 @@
 
 namespace Composition
 {
-    public class Logger
+    public class DbMigrator
     {
-        public void Log(string message)
+        private readonly Logger _logger;
+
+        public DbMigrator(Logger logger)
         {
-            Console.WriteLine(message);
+           _logger = logger; 
         }
     }
     class Program
