@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/bin/Debug/netcoreapp2.0/Composition.deps.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/bin/Debug/netcoreapp2.0/Composition.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/bin/Debug/netcoreapp2.0/Composition.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/bin/Debug/netcoreapp2.0/Composition.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/bin/Debug/netcoreapp2.0/Composition.pdb
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/obj/Debug/netcoreapp2.0/Composition.csprojAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/obj/Debug/netcoreapp2.0/Composition.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/obj/Debug/netcoreapp2.0/Composition.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/obj/Debug/netcoreapp2.0/Composition.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/obj/Debug/netcoreapp2.0/Composition.dll
+/Users/patrickthesailorman/Projects/Udemy/CsharpIntermediate/section3/Composition/obj/Debug/netcoreapp2.0/Composition.pdb
