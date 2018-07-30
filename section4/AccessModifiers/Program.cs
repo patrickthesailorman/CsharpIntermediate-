@@ -9,12 +9,12 @@ namespace AccessModifiers
 
         public void Promote()
         {
-
+            var rating = CalculateRating();
         }
 
         public int CalculateRating()
         {
-            
+            return 0;
         }
     }
     class Program
