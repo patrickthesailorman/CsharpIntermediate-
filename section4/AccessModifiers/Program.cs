@@ -28,6 +28,7 @@ namespace AccessModifiers
         static void Main(string[] args)
         {
             var customer = new Customer();
+            customer.CalculateRating();
 
             // Console.WriteLine("Hello World!");
         }
