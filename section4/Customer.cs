@@ -16,6 +16,8 @@ namespace Amazon
 
         public void Promote()
         {
+            var calculator = new RateCalculator();
+
             Console.WriteLine("Promote logic changed.");
         }
     }
