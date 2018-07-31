@@ -17,7 +17,8 @@ namespace Amazon
         public void Promote()
         {
             var calculator = new RateCalculator();
-
+            var rating = calculator.Calculate(this);
+            
             Console.WriteLine("Promote logic changed.");
         }
     }
