@@ -18,7 +18,7 @@ namespace AccessModifiers
             }
         }
 
-        private int CalculateRating(bool excludeOrders)
+        protected int CalculateRating(bool excludeOrders)
         {
             return 0;
         }
