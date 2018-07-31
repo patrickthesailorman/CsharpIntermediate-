@@ -2,13 +2,7 @@
 
 namespace AccessModifiers
 {
-    public class GoldCustomer : Customer
-    {
-        public void OfferVoucher()
-        {
-            
-        }
-    }
+    
     class Program
     {
         static void Main(string[] args)
