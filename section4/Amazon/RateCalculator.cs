@@ -8,9 +8,12 @@ namespace Amazon
 {
     public class RateCalculator
     {
-        public int Calculate(Customer customer)
+        internal class RateCalculator
         {
-            return 0;
+            public int Calculate(Customer customer)
+            {
+                return 0;
+            }
         }
     }
 }
