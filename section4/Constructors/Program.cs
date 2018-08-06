@@ -2,14 +2,6 @@
 
 namespace Constructors
 {
-    public class Vehicle
-    {
-        public Vehicle()
-        {
-            Console.WriteLine("Vehicle is being initialized.");
-        }
-    }
-
     pubic class Car : Vehicle
     {
         public Car()
