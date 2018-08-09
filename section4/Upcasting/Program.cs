@@ -2,16 +2,18 @@
 
 namespace Upcasting
 {
-    public class Text : Shape
-    {
-        public int FontSize { get; set; }
-        public string FontName { get; set; }
-    }
+    
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Yo!");
+            Text text = new Text();
+            Shape shape = text;
+
+            text.Width = 200;
+            text.Width  = 100;
+
+            Console.WriteLine(text.Width);
         }
     }
 }
