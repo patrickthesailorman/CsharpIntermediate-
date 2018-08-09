@@ -11,7 +11,7 @@ public partial class MainWindow : MainWindow
 
   public void Button_Click(object sender, RoutedEventArgs e)
   {
-    var button = (Button) sender;
+    var button = sender as Button;
 
     MessageBox.Show("Hello World!");
   }
