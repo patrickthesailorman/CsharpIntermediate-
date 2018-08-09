@@ -8,8 +8,8 @@ namespace Upcasting
     {
         static void Main(string[] args)
         {
-            StreamReader reader = new StreamReader();
-            
+            StreamReader reader = new StreamReader(new MemoryStream());
+
         }
     }
 }
