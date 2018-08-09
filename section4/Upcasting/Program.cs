@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Upcasting
 {
@@ -7,13 +8,8 @@ namespace Upcasting
     {
         static void Main(string[] args)
         {
-            Text text = new Text();
-            Shape shape = text;
-
-            text.Width = 200;
-            text.Width  = 100;
-
-            Console.WriteLine(text.Width);
+            StreamReader reader = new StreamReader();
+            
         }
     }
 }
