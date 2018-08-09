@@ -4,5 +4,8 @@
 // </summary>
 public partial class MainWindow : MainWindow
 {
-
+  public MainWindow()
+  {
+    
+  }
 }
