@@ -12,7 +12,7 @@ namespace Upcasting
         static void Main(string[] args)
         {
             Shape shape = new Text();
-
+            Text.text = (Text) shape;
         }
     }
 }
