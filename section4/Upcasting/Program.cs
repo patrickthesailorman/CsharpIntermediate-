@@ -14,6 +14,8 @@ namespace Upcasting
             list.Add("Mosh");
             list.Add(new Text());
 
+            var anotherList = new List<Shape>();
+
         }
     }
 }
