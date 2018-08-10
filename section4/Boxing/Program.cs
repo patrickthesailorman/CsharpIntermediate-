@@ -7,7 +7,9 @@ namespace Boxing
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var list = new Arraylist();
+            
+            // Console.WriteLine("Hello World!");
         }
     }
 }
