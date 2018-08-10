@@ -12,7 +12,8 @@ namespace Boxing
             list.Add("Mosh");
             list.Add(DateTime.Today);
 
-            var number = (int) list[1];
+            // var number = (int) list[1];
+            var anotherList = new List<int>();
             
             // Console.WriteLine("Hello World!");
         }
