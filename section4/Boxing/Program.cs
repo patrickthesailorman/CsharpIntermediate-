@@ -8,6 +8,9 @@ namespace Boxing
         static void Main(string[] args)
         {
             var list = new Arraylist();
+            list.Add(1);
+            list.Add("Mosh");
+            list.Add(DateTime.Today);
             
             // Console.WriteLine("Hello World!");
         }
