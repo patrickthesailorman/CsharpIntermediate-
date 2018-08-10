@@ -16,7 +16,7 @@ namespace Boxing
 
             // var number = (int) list[1];
             var anotherList = new List<int>();
-            anotherList.Add();
+            var names = new List<string>();
             
             // Console.WriteLine("Hello World!");
         }
