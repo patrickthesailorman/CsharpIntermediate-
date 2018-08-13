@@ -11,7 +11,9 @@ namespace method_Overiding
             {
                 switch(shape.Type)
                 {
-                    
+                    case ShapeType.Circle:
+                    Console.WriteLine("Draw a circle.");
+                    break;
                 }
             }
         }
