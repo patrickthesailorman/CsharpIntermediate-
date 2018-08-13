@@ -14,6 +14,10 @@ namespace method_Overiding
                     case ShapeType.Circle:
                     Console.WriteLine("Draw a circle.");
                     break;
+
+                    case ShapeType.Rectangle:
+                    Console.WriteLine("Draw a rectangle.");
+                    break;
                 }
             }
         }
