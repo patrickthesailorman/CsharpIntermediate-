@@ -7,7 +7,13 @@ namespace method_Overiding
     {
         public void DrawShapes(List<Shape> shapes)
         {
-            
+            foreach (var shape in shapes)
+            {
+                switch(shape.Type)
+                {
+                    
+                }
+            }
         }
     }
 }
