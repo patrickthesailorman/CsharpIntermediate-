@@ -10,6 +10,11 @@ namespace method_Overiding
         
     }
 
+    public class Triangle : Shape
+    {
+        
+    }
+
     public class Shape
     {
         public int Width { get; set }
