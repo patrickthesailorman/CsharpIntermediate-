@@ -2,6 +2,12 @@ namespace method_Overiding
 {
     public class Circle : Shape
     {
+        public override void Draw()
+        {
+            // Any code specific to the circle itself
+
+            base.Draw();
+        }
 
     }
 
