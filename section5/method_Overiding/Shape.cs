@@ -1,5 +1,9 @@
 namespace method_Overiding
 {
+    public class Circle : Shape
+    {
+        
+    }
     public class Shape
     {
         public int Width { get; set }
